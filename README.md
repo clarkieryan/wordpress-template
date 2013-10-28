@@ -1,7 +1,7 @@
 Wordpress Template
 ==================
 
-A clean version of Wordpress with all of the normal functions I use. 
+A clean version of a Wordpress template housing all of the base functionlaity I start off with.
 
 ==ToDo List
 - Add in reset.css
